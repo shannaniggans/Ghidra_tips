@@ -7,7 +7,6 @@ In `$GHIDRA_ROOT/support` is a file named launch.properties. In this launch.prop
 `VMARGS_LINUX=-Dsun.java2d.uiScale=1`
 Change this line to:
 `VMARGS_LINUX=-Dsun.java2d.uiScale=2`
-
 Credit: gist.github.com/nstarke/baa031e0cab64a608c9bd77d73c50fc6
 
 2. Ghidra trasining can be found under GhidraDocs/GhidraClass and served online here - https://static.grumpycoder.net/pixel/docs/GhidraClass/Beginner/Introduction_to_Ghidra_Student_Guide_withNotes.html#Introduction_to_Ghidra_Student_Guide.html

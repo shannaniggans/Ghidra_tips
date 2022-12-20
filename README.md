@@ -2,7 +2,7 @@
 
 1. **Resize Ghidra for High DPI screens**
 
-If you run Ghidra on a high DPI screen, you will probably find the GUI to be scaled down so small to be almost of no use.
+> If you run Ghidra on a high DPI screen, you will probably find the GUI to be scaled down so small to be almost of no use.
 There is a setting that you can adjust to scale the Ghidra GUI:
 
 In `$GHIDRA_ROOT/support` is a file named launch.properties. In this launch.properties file is the following configuration key:

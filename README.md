@@ -15,9 +15,9 @@ Change this line to:
 Credit: gist.github.com/nstarke/baa031e0cab64a608c9bd77d73c50fc6
 
 Windows:
-modify line 10 in ghidraRun.bat as follows (for 2 x scale):
+modify line 10 in ghidraRun.bat as follows (for 1.5 x scale):
 
-call "%~dp0support\launch.bat" bg Ghidra "%MAXMEM%" "-Dsun.java2d.uiScale=2.0" ghidra.GhidraRun %*
+call "%~dp0support\launch.bat" bg Ghidra "%MAXMEM%" "-Dsun.java2d.uiScale=1.5" ghidra.GhidraRun %*
 
 2. **Ghidra trasining can be found under GhidraDocs/GhidraClass**
 * and served online here - https://static.grumpycoder.net/pixel/docs/GhidraClass/Beginner/Introduction_to_Ghidra_Student_Guide_withNotes.html#Introduction_to_Ghidra_Student_Guide.html

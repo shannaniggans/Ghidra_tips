@@ -21,7 +21,8 @@ Credit: gist.github.com/nstarke/baa031e0cab64a608c9bd77d73c50fc6
 
 
 ## 3. Awesome IDA, Ghidra, x64DBG & OllyDBG plugins
-* A curated list of IDA x64DBG and OllyDBG plugins - https://github.com/fr0gger/awesome-ida-x64-olly-plugin
+> A curated list of IDA x64DBG and OllyDBG plugins
+* https://github.com/fr0gger/awesome-ida-x64-olly-plugin
 
 ## 4. How to tame your Ghidra
 > A brief introduction to setting up Ghidra, and then configuring it with a familiar UI and shortcuts, so that you would not need to re-learn all the key sequences you have got used to over the years.

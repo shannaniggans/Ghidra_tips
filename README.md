@@ -29,7 +29,7 @@ Credit: gist.github.com/nstarke/baa031e0cab64a608c9bd77d73c50fc6
 * https://securelist.com/how-to-train-your-ghidra/108272/?es_id=818188ccb0
 
 
-## 5.Disabling Jython
+## 5. Disabling Jython
 >Ghidrathon disables the built-in Jython script provider to avoid conflicts when Ghidra decides which provider should handle scripts with the .py file extension. > >This means existing Jython scripts cannot be executed with Ghidrathon installed. We recommend completely disabling the Jython extension.
 
 Use the following steps to disable the Jython extension:

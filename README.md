@@ -27,3 +27,13 @@ Credit: gist.github.com/nstarke/baa031e0cab64a608c9bd77d73c50fc6
 ## 4. How to tame your Ghidra
 > A brief introduction to setting up Ghidra, and then configuring it with a familiar UI and shortcuts, so that you would not need to re-learn all the key sequences you have got used to over the years.
 * https://securelist.com/how-to-train-your-ghidra/108272/?es_id=818188ccb0
+
+
+## 5.Disabling Jython
+>Ghidrathon disables the built-in Jython script provider to avoid conflicts when Ghidra decides which provider should handle scripts with the .py file extension. > >This means existing Jython scripts cannot be executed with Ghidrathon installed. We recommend completely disabling the Jython extension.
+
+Use the following steps to disable the Jython extension:
+
+* Navigate to File > Configure...
+* Click Ghidra Core
+* Un-check PythonPlugin

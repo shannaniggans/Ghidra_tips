@@ -30,6 +30,12 @@ Use the following steps to disable the Jython extension:
 > A curated list of IDA x64DBG and OllyDBG plugins
 * https://github.com/fr0gger/awesome-ida-x64-olly-plugin
 
+### Replica
+Enhances the Ghidra auto analysis process.
+* https://github.com/reb311ion/replica
+
+### 
+
 # Training resources
 ## 1. Ghidra training can be found under GhidraDocs/GhidraClass
 * Served online here - https://static.grumpycoder.net/pixel/docs/GhidraClass/Beginner/Introduction_to_Ghidra_Student_Guide_withNotes.html#Introduction_to_Ghidra_Student_Guide.html

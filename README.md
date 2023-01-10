@@ -27,6 +27,7 @@ Use the following steps to disable the Jython extension:
 
 ## 3. Adding columns to Listing window
 It might not be obvious at first, but in the Listing heading pane, click on the button "Edit the listing fields" and you can add additional fields such as PCode. Right click on the field and enable.
+> P-code is Ghidra’s intermediate representation / intermediate language (IR/IL) for assembly language instructions. Ghidra “lifts” assembly instructions of various disparate architectures into p-code, allowing reverse engineers to more easily develop automated analyses that work with assembly code.
 
 # Plugins & plugin lists
 ## 1. Awesome IDA, Ghidra, x64DBG & OllyDBG plugins

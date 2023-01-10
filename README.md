@@ -25,6 +25,9 @@ Use the following steps to disable the Jython extension:
 * Click Ghidra Core
 * Un-check PythonPlugin
 
+## 3. Adding columns to Listing window
+It might not be obvious at first, but in the Listing heading pane, click on the button "Edit the listing fields" and you can add additional fields such as PCode. Right click on the field and enable.
+
 # Plugins & plugin lists
 ## 1. Awesome IDA, Ghidra, x64DBG & OllyDBG plugins
 > A curated list of IDA x64DBG and OllyDBG plugins

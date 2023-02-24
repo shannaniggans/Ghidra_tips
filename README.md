@@ -34,9 +34,13 @@ It might not be obvious at first, but in the Listing heading pane, click on the 
 > A curated list of IDA x64DBG and OllyDBG plugins
 * https://github.com/fr0gger/awesome-ida-x64-olly-plugin
 
-### a. Replica
-Enhances the Ghidra auto analysis process.
+## 2. Replica
+> Enhances the Ghidra auto analysis process.
 * https://github.com/reb311ion/replica
+
+## 3. Ghidra Bridge
+> Ghidra Bridge is an effort to sidestep that problem - instead of being stuck in Jython, set up an RPC proxy for Python objects, so we can call into Ghidra/Jython-land to get the data we need, then bring it back to a more up-to-date Python with all the packages you need to do your work.
+* https://github.com/justfoxing/ghidra_bridge 
 
 ### 
 

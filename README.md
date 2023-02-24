@@ -46,6 +46,9 @@ Enhances the Ghidra auto analysis process.
 ## 2. How to tame your Ghidra
 > A brief introduction to setting up Ghidra, and then configuring it with a familiar UI and shortcuts, so that you would not need to re-learn all the key sequences you have got used to over the years.
 * https://securelist.com/how-to-train-your-ghidra/108272/?es_id=818188ccb0
+## 3. Ringzer0 training - WORKSHOP // Reversing with Ghidra // Jeremy Blackthorne
+> In this short hands-on workshop, we go over the major features of Ghidra, strengths and weakness, and how it compares to similar tools. We provide exercises that run on Mac, Windows, and Linux so bring whatever environment you got. If you’ve been waiting to take a look at Ghidra, now’s the time!
+* https://vimeo.com/showcase/8996638/video/660008560
 
 
 
